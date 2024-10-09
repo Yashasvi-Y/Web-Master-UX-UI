@@ -12,6 +12,7 @@ Dimesions of frames : desktop :1440x3250
                       Moblie  :430x2175 
 
 Additionally, on the navbar for the gallery page, in desktop mode, Name of the institute is added alongside the logo to keep consistency in navbar, as the same page has it on smaller screens. Along with this a few logos have been updated to their recent and widely recognized versions.
+[Figma Link for Gallery page design]((https://www.figma.com/design/GCn0qu25cPUQDXq3kJlkWd/Assignment-2%2B3?node-id=0-1&t=UZiZh9P6vbKYhnbm-1))
 
 Task 2: Create a Placement Stats Poster  3 Placement Posters are designed.
 Poster-1 carries a black and white image background with white Text and vibrant Orange color, from website theme, to catch user attention towards the statistics.
@@ -20,5 +21,5 @@ Poster-2, contrary to Poster-1, have a colorful background image having blurred 
 
 Poster-3 Have a similar theme as Poster-1 with a slightly different image background.
 Poster 1 and 3 have more goal oriented, that is to show statistics of placement of respective year while Poster-2 have a colorful theme to lighten up the feel.
-[link for the figma page of posters]([url](https://www.figma.com/design/q9SrWhTHmGJjLp3v6kQEY1/Placement-Poster?node-id=0-1&t=xwFhvK6Vsde0s9ax-1))
+[link for the figma page of posters]((https://www.figma.com/design/q9SrWhTHmGJjLp3v6kQEY1/Placement-Poster?node-id=0-1&t=xwFhvK6Vsde0s9ax-1))
 poster dimensions are 1581x803 as given.
